@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="java">
+    <CLASSES />
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/PacketBandit/lib/pcap4j-pcap4j-1.7.3/pcap4j-core/src/main/java" />
+      <root url="file://$PROJECT_DIR$/PacketBandit/lib/pcap4j-pcap4j-1.7.3/pcap4j-core/src/test/java" />
+      <root url="file://$PROJECT_DIR$/PacketBandit/lib/pcap4j-pcap4j-1.7.3/pcap4j-packetfactory-propertiesbased/src/main/java" />
+      <root url="file://$PROJECT_DIR$/PacketBandit/lib/pcap4j-pcap4j-1.7.3/pcap4j-packetfactory-static/src/main/java" />
+      <root url="file://$PROJECT_DIR$/PacketBandit/lib/pcap4j-pcap4j-1.7.3/pcap4j-packettest/src/test/java" />
+      <root url="file://$PROJECT_DIR$/PacketBandit/lib/pcap4j-pcap4j-1.7.3/pcap4j-sample/src/main/java" />
+    </SOURCES>
+  </library>
+</component>
